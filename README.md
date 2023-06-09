@@ -251,6 +251,68 @@ This repository contains a curated list of plant transcription factor databases 
 38. Expression Angler - [Link](http://bar.utoronto.ca/ntools/cgi-bin/ntools_expression_angler.cgi)
 39. KAAS - KEGG Automatic Annotation Server - [Link](https://www.genome.jp/tools/kaas/)
 
+## Widely used RNA-Seq software packages
+
+## Primary category: Splice-aware read alignment
+1. GEM - Filtration-based approach to approximate string matching for alignment  
+   Readable link: [GEM](https://github.com/gemtools/gem)
+
+2. GSNAP - Based on seed and extend alignment algorithm aware of complex variants  
+   Readable link: [GSNAP](https://github.com/juliangehring/GSnap)
+
+3. MapSplice - Based on Burrows-Wheeler Transform (BWT) algorithm  
+   Readable link: [MapSplice](https://github.com/GSTAR-Fusion/MapSplice)
+
+4. RUM - Integrates alignment tools Blat and Bowtie to increase accuracy  
+   Readable link: [RUM](https://github.com/PGFI/rum)
+
+5. STAR - Based on seed searching in uncompressed suffix arrays followed by seed clustering and stitching procedure; fast but memory-intensive  
+   Readable link: [STAR](https://github.com/alexdobin/STAR)
+
+6. TopHat - Uses Bowtie, based on BWT, to align reads; resolves spliced reads using exons by split read mapping  
+   Readable link: [TopHat](https://ccb.jhu.edu/software/tophat/index.shtml)
+
+## Primary category: Transcript assembly and quantification
+1. Cufflinks - Assembles transcripts to reference annotations or de novo and quantifies abundance  
+   Readable link: [Cufflinks](https://github.com/cole-trapnell-lab/cufflinks)
+
+2. FluxCapacitor - Quantifies transcripts using reference annotations  
+   Readable link: [FluxCapacitor](https://github.com/sameetandpotatoes/FluxCapacitor)
+
+3. iReckon - Models novel isoforms and estimates their abundance  
+   Readable link: [iReckon](https://github.com/jianhaizhang/iReckon)
+
+## Primary category: Differential expression (DE)
+1. BaySeq - Count-based approach using empirical Bayesian method to estimate posterior likelihoods  
+   Readable link: [BaySeq](https://github.com/StoreyLab/BaySeq)
+
+2. Cuffdiff2 - Isoform-based approach based on beta negative binomial distribution  
+   Readable link: [Cuffdiff2](https://github.com/cole-trapnell-lab/cufflinks)
+
+3. DESeq - Exon-based approach using the negative binomial model  
+   Readable link: [DESeq](https://github.com/mikelove/DESeq)
+
+4. DEGSeq - Isoform-based approach using the Poisson model  
+   Readable link: [DEGSeq](https://github.com/lyy6/DEGseq)
+
+5. EdgeR - Count-based approach using empirical Bayes method based on the negative binomial model  
+   Readable link: [EdgeR](https://github.com/Bioconductor/edgeR)
+
+6. MISO - Isoform-based model using Bayes factors to estimate posterior probabilities  
+   Readable link: [MISO](https://github.com/deweylab/MISO)
+
+## Other tools
+1. HCP - Normalizes expression data by inferring known and hidden factors with prior knowledge  
+   Readable link: [HCP](https://github.com/jianhaizhang/HCP)
+
+2. PEER - Normalizes expression data by inferring known and hidden factors using a probabilistic estimation based on the Bayesian framework  
+   Readable link: [PEER](https://github.com/PMBio/peer)
+
+3. Matrix e
+
+QTL - Fast eQTL detection tool that uses linear models (linear regression or ANOVA)  
+   Readable link: [Matrix eQTL](https://github.com/AndreyShabalin/MatrixEQTL)
+
 
 
 
