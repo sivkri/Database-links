@@ -78,7 +78,7 @@ This repository contains a curated list of plant transcription factor databases 
 - [agriGO](http://bioinfo.cau.edu.cn/agriGO/index.php) - GO Analysis Toolkit and Database (for Agricultural Community).
 
 
-## Tools/Methods:
+## Functional Analysis of Transcription Factors in Arabidopsis Methods and tools for RNA-seq-based co-expression network analysis
 1. Quality control
    - FastQC: [Link](http://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
    - RSeQC: [Link](http://rseqc.sourceforge.net/)
@@ -88,7 +88,7 @@ This repository contains a curated list of plant transcription factor databases 
    - Bowtie/Tophat/Tophat2: [Link](https://ccb.jhu.edu/software/tophat/index.shtml)
    - STAR: [Link](https://code.google.com/p/rna-star/)
    - HISAT: [Link](http://www.ccb.jhu.edu/software/hisat/index.shtml)
-   - BWA: No link provided
+   - BWA: 
    - Kallisto: [Link](https://pachterlab.github.io/kallisto/about.html)
    - Salmon: [Link](http://combine-lab.github.io/salmon/)
 
@@ -98,27 +98,27 @@ This repository contains a curated list of plant transcription factor databases 
    - SpliceNet: [Link](http://jjwanglab.org/SpliceNet/)
 
 4. Normalization
-   - FPKM/RPKM: No link provided
-   - TPM: No link provided
-   - TMM: No link provided
-   - RAIDA: No link provided
-   - DEseq2: No link provided
+   - FPKM/RPKM: 
+   - TPM: 
+   - TMM: 
+   - RAIDA: 
+   - DEseq2: 
 
 5. Correction for batch effects
-   - Limma-remove BatchEffect: No link provided
+   - Limma-remove BatchEffect: 
    - Svaseq: [Link](https://github.com/jtleek/svaseq)
    - Combat: [Link](http://www.bu.edu/jlab/wp-assets/ComBat/Abstract.html)
 
 6. Co-expression module detection
    - WGCNA: [Link](https://labs.genetics.ucla.edu/horvath/CoexpressionNetwork/Rpackages/WGCNA/)
-   - DiffCoEx: No link provided
-   - DICER: No link provided
+   - DiffCoEx: 
+   - DICER: 
    - CoXpress: [Link](http://coxpress.sourceforge.net/)
-   - DINGO: No link provided
-   - GSCNA: No link provided
-   - GSVD: No link provided
+   - DINGO: 
+   - GSCNA: 
+   - GSVD: 
    - HO-GSVD: [Link](https://github.com/aanchan/hogsvd-python/blob/master/README.md)
-   - Biclustering: No link provided
+   - Biclustering: 
 
 7. Functional enrichment
    - DAVID: [Link](https://david.ncifcrf.gov/)
@@ -131,8 +131,8 @@ This repository contains a curated list of plant transcription factor databases 
 8. Regulatory network inference
    - ARACNE: [Link](http://califano.c2b2.columbia.edu/aracne)
    - Genie3: [Link](https://bioconductor.org/packages/release/bioc/html/GENIE3.html)
-   - CoRegNet: No link provided
-   - cMonkey: No link provided
+   - CoRegNet: 
+   - cMonkey: 
 
 9. Visualization
    - Cystoscape: [Link](http://www.cytoscape.org/)
