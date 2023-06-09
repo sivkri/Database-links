@@ -308,9 +308,7 @@ This repository contains a curated list of plant transcription factor databases 
 2. PEER - Normalizes expression data by inferring known and hidden factors using a probabilistic estimation based on the Bayesian framework  
    Readable link: [PEER](https://github.com/PMBio/peer)
 
-3. Matrix e
-
-QTL - Fast eQTL detection tool that uses linear models (linear regression or ANOVA)  
+3. Matrix eQTL - Fast eQTL detection tool that uses linear models (linear regression or ANOVA)  
    Readable link: [Matrix eQTL](https://github.com/AndreyShabalin/MatrixEQTL)
 
 
